@@ -1,0 +1,191 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin: 0;
+   
+}
+
+header {
+    width: 100%;
+    height: 70px;
+    background-color:;
+    
+
+}
+.logo{
+    color: aliceblue;
+    font-size: 23px;
+    float: left;
+    width: 16%;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.Wteam
+{
+    color: aqua;
+    
+}
+.navG{
+   
+ display:inline-block;
+    float: right;
+}
+.navG ul li{
+    display: inline;
+    margin: 1.2em;
+    font-size: 23px;
+    color: darkblue;
+}
+
+.navG a:hover{
+    color: aqua;
+    cursor: pointer;
+}
+
+
+.panner{
+   width:auto;
+     height: 500px;
+    position: relative;
+    display: flex;
+    pointer-events: none;
+
+/*    background-color: #ff99ff;*/
+    
+}
+
+.panner h1{
+   position: absolute;
+    width: 50;
+  top: 35%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+    font-size: 60px;
+    color: white;
+    
+    
+}
+.woft{
+    color: black;
+}
+.panner img{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 0;
+    opacity: 0.9;
+     background-size: cover;
+ 
+}
+.panner .btn1{
+    color: aliceblue;
+   height: 65px;
+     width: 12%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 65%;
+  left: 25%;
+      font-weight: 200;
+   border-radius: 10px;
+    
+    
+}
+.panner .btn2{
+    color: aliceblue;
+     transform: translate(-50%, -50%);
+    position: absolute;
+    height: 65px;
+    width: 12%;
+      top: 65%;
+  left: 38%;
+     font-weight: 200;
+   border-radius: 10px;
+    
+}
+.panner a{
+    color: black;
+}
+.panner2{
+      width: auto;
+   height: 350px;
+    margin-top: 0;
+   
+}
+.AISec{
+  height: 300px;;
+    width: 33.3%;
+background-image: url(images/ai2.jpg);
+    background-size: cover;
+   
+
+float: left;
+}
+.AISec p{
+
+    color: white;
+  
+}
+
+.prosec{
+      height: 300px;;
+    width: 33.39%;
+    background-image: url(images/robot1.jpg);
+    background-size: cover;
+   background-color: dimgrey;
+float: left;
+}
+.prosec p{
+    color: white;
+}
+.robotsec{
+      height: 300px;;
+    width: 33.3%;
+    background-color:blue;
+     position: relative;
+    background-image: url(images/programming.png);
+      background-size: cover;
+float:right;
+}
+.panner2 section h2{
+    color: white;
+    text-align: center;
+}
+
+.panner2 section p{
+      color: black;
+    font-size: 23px;
+  text-align: center;
+    padding-top: 20px;
+}
+
+.panner2 section button{
+     margin-left: 180px;
+    margin-top: 23px;
+    width: 170px;
+    height: 70px;
+    border-radius: 7px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+
+.scroll{
+  white-space: nowrap; overflow-y: hidden; overflow-x: scroll; -webkit-overflow-x: touch;
+
+}
+.scroll iframe{
+ 
+    display: inline-block;
+  
+}
+/*
+.scroll:-webkit-scrollbar {
+  display: none;
+}
+*/
+
+.vidHeading{
+    text-align: center;
+    font-size: 30px;
+}
+
